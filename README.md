@@ -51,6 +51,8 @@ The project uses a **Star Schema** data model consisting of a central sales fact
                        |
                        |
                  🌍 Geography
+```
+
 
 ## Dimension Tables
 
@@ -91,71 +93,75 @@ Global Sales Performance Dashboard
 
 ## 📸 Dashboard Preview
 
-🔍 Analysis Performed
+![Global Sales Performance Dashboard](Sales_Dashboard.png)
+
+---
+
+## 🔍 Analysis Performed
 
 The dashboard provides insights into:
 
-Overall sales performance
-Sales trends over time
-Region-wise sales performance
-Country-wise sales distribution
-Product-wise sales performance
-Customer-level sales analysis
-Revenue and business KPIs
-High-performing and low-performing areas
-Sales patterns and trends
+- Overall sales performance
+- Sales trends over time
+- Region-wise sales performance
+- Country-wise sales distribution
+- Product-wise sales performance
+- Customer-level sales analysis
+- Revenue and business KPIs
+- High-performing and low-performing areas
+- Sales patterns and trends
 
-##💡 Key Insights
+---
+
+## 💡 Key Insights
 
 The dashboard helps identify:
 
-Which regions and countries generate the highest sales
-Which products contribute most to overall revenue
-Sales trends across different time periods
-Customer segments with higher sales contribution
-Areas with strong and weak sales performance
-Business trends that can support strategic decision-making
+- Which regions and countries generate the highest sales
+- Which products contribute most to overall revenue
+- Sales trends across different time periods
+- Customer segments with higher sales contribution
+- Areas with strong and weak sales performance
+- Business trends that can support strategic decision-making
+
+---
 
 ## 📈 Business Value
 
-This dashboard provides management with a centralized and interactive view of global sales performance.
+This dashboard provides management with a **centralized and interactive view of global sales performance**.
 
-It enables users to quickly monitor KPIs, identify sales trends, compare regional performance, evaluate products and customers, and make data-driven business decisions.
+It enables users to quickly monitor KPIs, identify sales trends, compare regional performance, evaluate products and customers, and make **data-driven business decisions**.
+
+---
 
 ## 📚 Skills Demonstrated
 
-Power BI | Power Query | DAX | Star Schema | Data Modeling | Data Cleaning | Data Transformation | Data Visualization | Business Intelligence | Dashboard Development
+**Power BI | Power Query | DAX | Star Schema | Data Modeling | Data Cleaning | Data Transformation | Data Visualization | Business Intelligence | Dashboard Development**
+
+---
 
 ## 📂 Project Files
-File	Description
-Sales_Dashboard.pbix	Power BI dashboard and data model
-Sales_Dashboard.png	Dashboard preview image
-README.md	Project documentation
+
+| File | Description |
+|------|-------------|
+| `Sales_Dashboard.pbix` | Power BI dashboard and data model |
+| `Sales_Dashboard.png` | Dashboard preview image |
+| `README.md` | Project documentation |
+
+---
+
+## ⭐ Project Highlights
+
+An interactive Power BI dashboard built using a **Star Schema data model** to analyze global sales performance and generate meaningful business insights through data modeling, DAX, and visualization.
 
 ## 👩‍💻 Author
 
-Gayathri R
+**Gayathri R**
 
 Aspiring Data Analyst
 
-Technical Skills
+### Technical Skills
 
-Excel | SQL | Power BI | Python
+**Excel | SQL | Power BI | Python**
 
-## Project Highlights
-
-An interactive Power BI dashboard built using a Star Schema data model to analyze global sales performance and generate meaningful business insights through data modeling, DAX, and visualization.
-
-
-### 📁 Recommended GitHub structure
-
-```text
-Global-Sales-Performance-Dashboard/
-│
-├── README.md
-├── Sales_Dashboard.pbix
-└── Sales_Dashboard.png
-
-Important: Keep Sales_Dashboard.png in the same folder as README.md. Then this line will display your dashboard image correctly:
-
-![Global Sales Performance Dashboard](Sales_Dashboard.png)
+---
