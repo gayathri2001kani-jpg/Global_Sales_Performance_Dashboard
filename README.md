@@ -37,7 +37,7 @@ A **Star Schema data model** was implemented to organize the data efficiently an
 
 ---
 
-## ⭐ Data Model – Star Schema
+## Data Model – Star Schema
 
 The project uses a **Star Schema** data model consisting of a central sales fact table connected to multiple dimension tables.
 
@@ -51,11 +51,8 @@ The project uses a **Star Schema** data model consisting of a central sales fact
                        |
                        |
                  🌍 Geography
-Fact Table
 
-The Sales Fact Table contains transactional sales data and measurable business metrics.
-
-Dimension Tables
+## Dimension Tables
 
 The dimension tables provide different perspectives for analyzing sales data:
 
@@ -74,7 +71,8 @@ The dimension tables provide different perspectives for analyzing sales data:
 🔎 Interactive slicers and filters
 📉 Trend and comparison analysis
 🎨 Professional and user-friendly dashboard design
-🔄 Project Workflow
+
+## 🔄 Project Workflow
 Raw Sales Data
        ↓
 Data Cleaning & Transformation
@@ -90,7 +88,8 @@ DAX Measures
 Interactive Visualizations
        ↓
 Global Sales Performance Dashboard
-📸 Dashboard Preview
+
+## 📸 Dashboard Preview
 
 🔍 Analysis Performed
 
@@ -105,7 +104,8 @@ Customer-level sales analysis
 Revenue and business KPIs
 High-performing and low-performing areas
 Sales patterns and trends
-💡 Key Insights
+
+##💡 Key Insights
 
 The dashboard helps identify:
 
@@ -115,22 +115,24 @@ Sales trends across different time periods
 Customer segments with higher sales contribution
 Areas with strong and weak sales performance
 Business trends that can support strategic decision-making
-📈 Business Value
+
+## 📈 Business Value
 
 This dashboard provides management with a centralized and interactive view of global sales performance.
 
 It enables users to quickly monitor KPIs, identify sales trends, compare regional performance, evaluate products and customers, and make data-driven business decisions.
 
-📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 
 Power BI | Power Query | DAX | Star Schema | Data Modeling | Data Cleaning | Data Transformation | Data Visualization | Business Intelligence | Dashboard Development
 
-📂 Project Files
+## 📂 Project Files
 File	Description
 Sales_Dashboard.pbix	Power BI dashboard and data model
 Sales_Dashboard.png	Dashboard preview image
 README.md	Project documentation
-👩‍💻 Author
+
+## 👩‍💻 Author
 
 Gayathri R
 
@@ -140,7 +142,7 @@ Technical Skills
 
 Excel | SQL | Power BI | Python
 
-⭐ Project Highlights
+## Project Highlights
 
 An interactive Power BI dashboard built using a Star Schema data model to analyze global sales performance and generate meaningful business insights through data modeling, DAX, and visualization.
 
