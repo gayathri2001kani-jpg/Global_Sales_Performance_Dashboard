@@ -145,7 +145,7 @@ It enables users to quickly monitor KPIs, identify sales trends, compare regiona
 | File | Description |
 |------|-------------|
 | `Global_Sales_Performance_Dashboard.pbix` | Power BI dashboard and data model |
-| `Sales_Analysis_Dashboard.png` | Dashboard preview image |
+| `Global_Sales_Performance_Dashboard.png` | Dashboard preview image |
 | `README.md` | Project documentation |
 
 ---
