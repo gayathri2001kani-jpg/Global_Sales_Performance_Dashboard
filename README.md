@@ -93,7 +93,7 @@ Global Sales Performance Dashboard
 
 ## 📸 Dashboard Preview
 
-![Global Sales Performance Dashboard](Sales_Analysis_Dashboard.png)
+![Global Sales Performance Dashboard](Global_Sales_Performance_Dashboard.png)
 
 ---
 
